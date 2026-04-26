@@ -29,7 +29,7 @@ This week we keep practicing our TD moves and we will gradually get into the the
 
 ### Themes
 
-- Exhaustion in the Arts
+- Listening in the Arts
 - Developement of a Storyworld
 
 ### Schedule

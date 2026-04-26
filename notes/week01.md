@@ -1,6 +1,6 @@
 # Week 01
 
-This week we focus on learning the basis of TD and start experimenting with the tools (hardware + software)
+> **This week begins with introductions and orientation, then focuses on listening as a practice, ideation, and inspiration, before moving into first technical fundamentals and experiments with digital media.**
 
 ## Day 01
 
@@ -26,39 +26,48 @@ This week we focus on learning the basis of TD and start experimenting with the 
 
 ### Entry ticket
 
-Use [this link](https://forms.gle/LGh1JpLbkQoaNWgXA) and please fill the form ✏️
+### Entry ticket
 
-## Day 02 - Tools
+Use [this link](https://forms.gle/fShk1hS5ptg1XVBt6) and please fill the form ✏️
+
+## Day 02 - Listening as a practice + Ideation / Inspiration
 
 ### Themes
 
-- Tools
-- Hardware
+- Listening to Signals
+- Practices of Attention
+- From Input to Perception
 
 ### Schedule
 
-See [TD Toolbox - Day 01](https://digitalideation.github.io/toolbox-touchdesigner/day01.html)
+| Time          | Desc                    |
+| ------------- | ----------------------- |
+| 9:00 - 10:30  | Inputs / discussion     |
+| 10:30 - 11:00 | Break                   |
+| 11:00 - 12:00 | Inputs / discussion     |
+| 12:00 - 13:00 | Lunch break :hamburger: |
+| 13:00 - 13:30 | Ideation / Inspiration  |
 
 ## Day 03 - Tools
 
 ### Themes
 
-- Tools
-- Hardware
+- Working on desktop + laptop
+- Hard / Soft / Ware
+- TD Fundamentals - Part 01 - (Demo + Practice)
+- TD Fundamentals - Part 02 - (Demo + Practice)
 
 ### Schedule
 
-See [TD Toolbox - Day 02](https://digitalideation.github.io/toolbox-touchdesigner/day02.html)
+See [TD Toolbox - Day 01](https://digitalideation.github.io/toolbox-touchdesigner/day01.html)
 
 ## Day 04 - Tools
 
 ### Themes
 
-- Tools
-- Hardware
+TBA
 
 ### Schedule
 
-See [TD Toolbox - Day 03](https://digitalideation.github.io/toolbox-touchdesigner/day03.html)
+TBA
 
-## Day 05 - Self Study
