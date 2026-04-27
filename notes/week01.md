@@ -46,7 +46,7 @@ Use [this link](https://forms.gle/fShk1hS5ptg1XVBt6) and please fill the form âœ
 | 10:30 - 11:00 | Break                   |
 | 11:00 - 12:00 | Inputs / discussion     |
 | 12:00 - 13:00 | Lunch break :hamburger: |
-| 13:00 - 13:30 | Ideation / Inspiration  |
+| 13:00 - 16:00 | Ideation / Inspiration  |
 
 ## Day 03 - Tools
 
