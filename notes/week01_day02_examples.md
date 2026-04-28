@@ -1,4 +1,3 @@
-
 ## Example Remix Directions
 
 ### Example 1: Remixing _Listening Post_
@@ -48,4 +47,3 @@ Each group can produce one slide, poster, or short spoken pitch including:
 For example:
 
 > _Consent Choir_ is a remix of Rafael Lozano-Hemmer’s _Microphones_ that turns voice recording into a public negotiation about memory, consent, and the ownership of spoken data.
-

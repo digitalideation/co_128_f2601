@@ -67,18 +67,29 @@ Use [this link](https://forms.gle/fShk1hS5ptg1XVBt6) and please fill the form âœ
 - Working on desktop + laptop
 - Hard / Soft / Ware
 - TD Fundamentals - Part 01 - (Demo + Practice)
-- TD Fundamentals - Part 02 - (Demo + Practice)
 
 ### Schedule
 
 See [TD Toolbox - Day 01](https://digitalideation.github.io/toolbox-touchdesigner/day01.html)
 
+### Content
+
+- [TD Toolbox - Day 01](https://digitalideation.github.io/toolbox-touchdesigner/day01.html)
+
 ## Day 04 - Tools
 
 ### Themes
 
-TBA
+- Working on desktop + laptop
+- Hard / Soft / Ware
+- TD Fundamentals - Part 02 - (Demo + Practice)
+- Grgoup work
 
 ### Schedule
 
-TBA
+See [TD Toolbox - Day 02](https://digitalideation.github.io/toolbox-touchdesigner/day02.html)
+
+### Content
+
+- [TD Toolbox - Day 02](https://digitalideation.github.io/toolbox-touchdesigner/day02.html)
+- [Group exercise](./week01_day04_exercise.md)
