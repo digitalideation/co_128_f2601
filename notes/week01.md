@@ -40,13 +40,25 @@ Use [this link](https://forms.gle/fShk1hS5ptg1XVBt6) and please fill the form âœ
 
 ### Schedule
 
-| Time          | Desc                    |
-| ------------- | ----------------------- |
-| 9:00 - 10:30  | Inputs / discussion     |
-| 10:30 - 11:00 | Break                   |
-| 11:00 - 12:00 | Inputs / discussion     |
-| 12:00 - 13:00 | Lunch break :hamburger: |
-| 13:00 - 16:00 | Ideation / Inspiration  |
+| Time          | Desc                     |
+| ------------- | ------------------------ |
+| 9:00 - 10:30  | Inputs / discussion      |
+| 10:30 - 11:00 | Break                    |
+| 11:00 - 12:00 | Inputs / discussion      |
+| 12:00 - 13:00 | Lunch break :hamburger:  |
+| 13:00 - 14:00 | Inspiration - Input      |
+| 14:00 - 14:30 | Inspiration - discussion |
+| 14:30 - 14:45 | Break                    |
+| 14:45 - 15:00 | Group making             |
+| 15:00 - 15:30 | Group work               |
+| 15:30 - 16:00 | Micro Presentation       |
+
+### Content
+
+- [Slides](https://drive.switch.ch/index.php/s/tAHwVtge3xr5CkJ)
+- [Discussions](./week01_day02_discussions.md)
+- [Group Work](./week01_day02.md)
+- [Litterature](https://drive.switch.ch/index.php/s/tAHwVtge3xr5CkJ)
 
 ## Day 03 - Tools
 
@@ -70,4 +82,3 @@ TBA
 ### Schedule
 
 TBA
-
