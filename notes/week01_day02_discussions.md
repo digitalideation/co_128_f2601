@@ -27,11 +27,8 @@ This prevents the conversation from staying only about art references.
 
 Presentation includes surveillance, hidden messages, hotlines, intimacy, and care.
 
-> **When does listening become care, and when does it become intrusion?**
-
-Follow-up:
-
-> **Who has permission to listen? Who benefits from listening? Who is exposed?**
+> **1) When does listening become care, and when does it become intrusion?**.  
+> **2) Who has permission to listen? Who benefits from listening? Who is exposed?**
 
 ---
 
@@ -85,17 +82,13 @@ Turns the topic into an interaction design problem.
 14. **What role should the voice have?**
 15. **What would make someone listen more carefully?**
 
-## A good closing exercise
-
-Use a quick group exercise called:
+## Exercise
 
 ### “Design a listening situation”
 
-Ask people to complete this sentence:
+Complete this sentence:
 
 > **A person enters a situation where they can only understand what is happening by listening to **\_\_\_\_**.**
-
-Then ask them to fill in:
 
 - a voice from the past
 - a stranger on the phone
@@ -107,8 +100,6 @@ Then ask them to fill in:
 - an archive
 - someone who is not present
 - something hidden in noise
-
-This turns discussion into material for the next creative step.
 
 ## Suggested final discussion slide
 
