@@ -4,7 +4,7 @@
 
 **20 minutes**
 
-Give them small tasks inspired by your operator scavenger hunt format. ([digitalideation.github.io][1])
+Give them small tasks inspired by the operator scavenger hunt format. ([digitalideation.github.io][1])
 
 Find a way to:
 
