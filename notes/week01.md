@@ -93,3 +93,4 @@ See [TD Toolbox - Day 02](https://digitalideation.github.io/toolbox-touchdesigne
 
 - [TD Toolbox - Day 02](https://digitalideation.github.io/toolbox-touchdesigner/day02.html)
 - [Group exercise](./week01_day04_exercise.md)
+- [Remix ideas from day 02](./week01_day02_examples.md)

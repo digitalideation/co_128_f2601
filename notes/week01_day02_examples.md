@@ -34,16 +34,16 @@ Can interaction be based on attention rather than action?
 
 ## Possible Deliverable
 
-Each group can produce one slide, poster, or short spoken pitch including:
+One slide, poster, or short spoken pitch including:
 
-**Original project:**
-**Listening concept:**
-**Remix title:**
-**Audience interaction:**
-**Technology:**
-**Contemporary issue:**
-**One-sentence pitch:**
+**Original project**.  
+**Listening concept**.  
+**Remix title**.  
+**Audience interaction**.  
+**Technology**.  
+**Contemporary issue**.  
+**One-sentence pitch**.  
 
-For example:
+Example:
 
 > _Consent Choir_ is a remix of Rafael Lozano-Hemmer’s _Microphones_ that turns voice recording into a public negotiation about memory, consent, and the ownership of spoken data.
