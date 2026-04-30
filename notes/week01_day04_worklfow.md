@@ -4,7 +4,7 @@
 
 **20 minutes**
 
-Give them small tasks inspired by the operator scavenger hunt format. ([digitalideation.github.io][1])
+Give them small tasks inspired by the operator scavenger hunt format. ([digitalideation.github.io](https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-exercises-ideas.html))
 
 Find a way to:
 
@@ -73,6 +73,3 @@ Best if you want them to think about interaction, interface, voice, and emotiona
 
 My suggestion:
 Use **Listening to the Room** as a warm-up, then **Voice Across Time Machine** as the main group exercise.
-
-[1]: https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-exercises-ideas.html ' Morning Session: Interface & Core Concepts | toolbox-touchdesigner'
-[2]: https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-challenges-ideas.html ' Basic Effects | toolbox-touchdesigner'

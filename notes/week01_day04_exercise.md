@@ -246,7 +246,7 @@ A visual choir, signal field, or multi-voice composition.
 
 ## Option 6: The Listening Relay
 
-Adaptation of the **Animation Relay** format, where participants pass projects around and each person adds a new layer. ([digitalideation.github.io][1])
+Adaptation of the **Animation Relay** format, where participants pass projects around and each person adds a new layer. ([digitalideation.github.io](https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-exercises-ideas.html))
 
 ### Brief
 
@@ -271,7 +271,7 @@ This one is playful and good for energy.
 
 ## Option 7: One-Minute Listening Film Festival
 
-Adaptation of the “One-Minute Project” wrap-up challenge. ([digitalideation.github.io][1])
+Adaptation of the “One-Minute Project” wrap-up challenge. ([digitalideation.github.io](https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-exercises-ideas.html))
 
 ### Brief
 
@@ -301,6 +301,3 @@ Each group exports a 10–20 second clip answering this prompt:
 | **6 - Medium / advanced**  | **Sound as Evidence**                    | More demanding because it needs to feel like investigation or decoding, not just audio-reactive visuals. Works best with spectrum, thresholds, hidden signals, text, or interaction. |
 | **7 - Advanced**           | **Collective Voice / Collective System** | Requires coordinating multiple inputs or recordings. More moving parts: timing, balance, layout, collective logic.                                                                   |
 | **8 - Advanced / chaotic** | **Listening Relay**                      | Technically flexible, but organizationally complex. Passing files between groups can create confusion unless the group already understands the basics.                               |
-
-[1]: https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-exercises-ideas.html ' Morning Session: Interface & Core Concepts | toolbox-touchdesigner'
-[2]: https://digitalideation.github.io/toolbox-touchdesigner/parkplatz/day01-challenges-ideas.html ' Basic Effects | toolbox-touchdesigner'
