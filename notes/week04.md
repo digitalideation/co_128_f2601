@@ -65,3 +65,16 @@
 | 13:00 - 14:00 | Tutorials with individual groups                              |
 | 14:00 - 15:00 | Tutorials with individual groups                              |
 | 15:00 - 16:00 | Tutorials with individual groups                              |
+
+## Day 05 (Lea)
+
+### Themes
+
+- Museum visit - [Pling!](https://museum-gestaltung.ch/en/exhibition/pling-sound-and-design)
+
+### Schedule
+
+| Time      | Desc                                                                           |
+| --------- | ------------------------------------------------------------------------------ |
+| 14:00     | **Meet at tram stop Zürich Toni-Areal**                                            |
+| Afternoon | Visit the exhibition *Pling! Sound and Design* at Museum für Gestaltung Zurich |
